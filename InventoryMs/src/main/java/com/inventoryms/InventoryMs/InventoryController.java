@@ -10,6 +10,6 @@ public class InventoryController {
 
     @GetMapping
     public String getInventory() {
-        return "Inventory MS is working with DevTools. #usguri";
+        return "Inventory MS is working. #usguri venceu";
     }
 }
